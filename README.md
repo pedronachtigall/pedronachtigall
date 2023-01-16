@@ -22,9 +22,9 @@ I have 10+ years of experience in bioinformatics, statistics, programming, softw
 
 Find below a list of the repositories containing tools, scripts, tutorials, and guides that I've been developed so far.
 
-### Tools
+<img align="right" src="media/figures/github_tools.png" width=250>
 
-<img align="right" src="media/figures/github_tools.png" width=150>
+### Tools
 
 - [CodAn](https://github.com/pedronachtigall/CodAn)
 - [ToxCodAn](https://github.com/pedronachtigall/ToxCodAn)
