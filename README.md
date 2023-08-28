@@ -39,12 +39,14 @@ Find below a list of the repositories containing tools, scripts, tutorials, and 
 - [MitoSIS](https://github.com/pedronachtigall/MitoSIS)
 - [UTRan](https://github.com/pedronachtigall/UTRan)
 - [denomiR](https://github.com/pedronachtigall/denomiR)
+- [cirCodAn](https://github.com/pedronachtigall/cirCodAn)
 
 ### Bioinformatics tutorials/guides
 
  - [Guide to venom gland transcriptomics](https://github.com/pedronachtigall/ToxCodAn/tree/master/Guide)
  - [Guide to annotate toxin genes in genomes](https://github.com/pedronachtigall/ToxCodAn-Genome/tree/main/Guide)
  - [Tutorial to perform chromosome-level genome assembly using HiFi and HiC data](https://github.com/pedronachtigall/HI-genome-assembly-pipeline)
+ - [Tutorial to perform repeat annotation in genome assemblies](https://github.com/pedronachtigall/Repeat-annotation-pipeline)
 
 ## Contact
 :mailbox: pedronachtigall@gmail.com
