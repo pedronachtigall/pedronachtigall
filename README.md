@@ -10,7 +10,7 @@
 ## About me
 <div align="center">
 <center>
-<img src="media/figures/github_insitutes.png" width=800>
+<img src="media/figures/github_institutes.png" width=800>
 </center>
 </div>
 
