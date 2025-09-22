@@ -40,6 +40,7 @@ Find below a list of the repositories containing tools, scripts, tutorials, and 
 - [UTRan](https://github.com/pedronachtigall/UTRan)
 - [denomiR](https://github.com/pedronachtigall/denomiR)
 - [cirCodAn](https://github.com/pedronachtigall/cirCodAn)
+- [Proteomancer](https://github.com/pedronachtigall/Proteomancer)
 
 ### Bioinformatics tutorials/guides
 
