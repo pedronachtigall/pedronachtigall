@@ -48,6 +48,7 @@ Find below a list of the repositories containing tools, scripts, tutorials, and 
  - [Guide to annotate toxin genes in genomes](https://github.com/pedronachtigall/ToxCodAn-Genome/tree/main/Guide)
  - [Tutorial to perform chromosome-level genome assembly using HiFi and HiC data](https://github.com/pedronachtigall/HI-genome-assembly-pipeline)
  - [Tutorial to perform repeat annotation in genome assemblies](https://github.com/pedronachtigall/Repeat-annotation-pipeline)
+ - [Tutorial to perform gene annotation in genome assemblies using GALBA](https://github.com/pedronachtigall/Gene-annotation-pipeline)
 
 ## Contact
 :mailbox: pedronachtigall@gmail.com
